@@ -1,0 +1,3 @@
+Elapsed Time For Input Operations:0.073 seconds
+Elapsed Time For Output Operations:0.011 seconds
+Elapsed Time For Partitioning:0.079 seconds

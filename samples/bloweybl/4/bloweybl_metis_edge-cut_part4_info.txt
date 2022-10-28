@@ -1,0 +1,9 @@
+Resulting imbalance:1.02976
+cutsize/#vertices:0.30017
+Cutsize:9006
+----------------------------
+Part Weights:
+0 :7333
+1 :7283
+2 :7724
+3 :7663

@@ -1,0 +1,20 @@
+File Name: wiki-Vote.mtx
+Non-Zero Count: 103689
+Row and Column Count (M x N): 8297 and 8297
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 4006 
+
+ MaxImbals are (as %): 0.663
+             0.7 
+
+ PartWeights are:
+
+   0 :      1037 
+   1 :      1037 
+   2 :      1037 
+   3 :      1037 
+   4 :      1044 
+   5 :      1044 
+   6 :      1031 
+   7 :      1030 

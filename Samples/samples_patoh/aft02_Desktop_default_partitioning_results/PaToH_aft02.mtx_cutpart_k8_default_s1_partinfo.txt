@@ -1,0 +1,20 @@
+File Name: aft02.mtx
+Non-Zero Count: 127762
+Row and Column Count (M x N): 8184 and 8184
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 932 
+
+ MaxImbals are (as %): 0.000
+             0.0 
+
+ PartWeights are:
+
+   0 :      1023 
+   1 :      1023 
+   2 :      1023 
+   3 :      1023 
+   4 :      1023 
+   5 :      1023 
+   6 :      1023 
+   7 :      1023 

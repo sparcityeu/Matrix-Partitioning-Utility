@@ -1,0 +1,28 @@
+File Name: barth5.mtx
+Non-Zero Count: 107362
+Row and Column Count (M x N): 15606 and 15606
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 16-way cutsize = 1069 
+
+ MaxImbals are (as %): 0.372
+             0.4 
+
+ PartWeights are:
+
+   0 :       975 
+   1 :       976 
+   2 :       976 
+   3 :       975 
+   4 :       976 
+   5 :       975 
+   6 :       979 
+   7 :       971 
+   8 :       976 
+   9 :       975 
+  10 :       975 
+  11 :       975 
+  12 :       975 
+  13 :       976 
+  14 :       976 
+  15 :       975 

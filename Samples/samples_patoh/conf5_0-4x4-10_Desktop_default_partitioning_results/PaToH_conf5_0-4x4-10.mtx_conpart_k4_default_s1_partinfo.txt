@@ -1,0 +1,16 @@
+File Name: conf5_0-4x4-10.mtx
+Non-Zero Count: 119808
+Row and Column Count (M x N): 3072 and 3072
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 4-way cutsize = 1536 
+
+ MaxImbals are (as %): 0.000
+             0.0 
+
+ PartWeights are:
+
+   0 :       768 
+   1 :       768 
+   2 :       768 
+   3 :       768 

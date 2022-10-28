@@ -1,0 +1,14 @@
+File Name: c-41.mtx
+Non-Zero Count: 101745
+Row and Column Count (M x N): 9769 and 9769
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 2-way cutsize = 1115 
+
+ MaxImbals are (as %): 1.730
+             1.7 
+
+ PartWeights are:
+
+   0 :      4800 
+   1 :      4969 

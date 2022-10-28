@@ -1,0 +1,20 @@
+File Name: raefsky6.mtx
+Non-Zero Count: 137845
+Row and Column Count (M x N): 3402 and 3402
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 1780 
+
+ MaxImbals are (as %): 0.176
+             0.2 
+
+ PartWeights are:
+
+   0 :       425 
+   1 :       425 
+   2 :       426 
+   3 :       425 
+   4 :       425 
+   5 :       426 
+   6 :       425 
+   7 :       425 

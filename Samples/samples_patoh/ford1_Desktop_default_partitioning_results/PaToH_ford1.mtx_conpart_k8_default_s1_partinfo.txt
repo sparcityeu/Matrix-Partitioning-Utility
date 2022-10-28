@@ -1,0 +1,20 @@
+File Name: ford1.mtx
+Non-Zero Count: 101576
+Row and Column Count (M x N): 18728 and 18728
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 762 
+
+ MaxImbals are (as %): 0.171
+             0.2 
+
+ PartWeights are:
+
+   0 :      2341 
+   1 :      2341 
+   2 :      2341 
+   3 :      2341 
+   4 :      2345 
+   5 :      2344 
+   6 :      2337 
+   7 :      2338 

@@ -1,0 +1,20 @@
+File Name: piston.mtx
+Non-Zero Count: 100015
+Row and Column Count (M x N): 2025 and 2025
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 498 
+
+ MaxImbals are (as %): 0.741
+             0.7 
+
+ PartWeights are:
+
+   0 :       254 
+   1 :       254 
+   2 :       255 
+   3 :       252 
+   4 :       253 
+   5 :       252 
+   6 :       252 
+   7 :       253 

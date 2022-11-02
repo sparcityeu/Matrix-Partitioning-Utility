@@ -1,0 +1,20 @@
+File Name: bodyy5.mtx
+Non-Zero Count: 129281
+Row and Column Count (M x N): 18589 and 18589
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 988 
+
+ MaxImbals are (as %): 0.016
+             0.0 
+
+ PartWeights are:
+
+   0 :      2323 
+   1 :      2323 
+   2 :      2324 
+   3 :      2324 
+   4 :      2324 
+   5 :      2324 
+   6 :      2324 
+   7 :      2323 

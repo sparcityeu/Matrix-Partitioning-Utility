@@ -1,0 +1,16 @@
+File Name: lp_fit2d.mtx
+Non-Zero Count: 129042
+Row and Column Count (M x N): 25 and 10524
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 4-way cutsize = 10500 
+
+ MaxImbals are (as %): 12.000
+            12.0 
+
+ PartWeights are:
+
+   0 :         7 
+   1 :         6 
+   2 :         6 
+   3 :         6 

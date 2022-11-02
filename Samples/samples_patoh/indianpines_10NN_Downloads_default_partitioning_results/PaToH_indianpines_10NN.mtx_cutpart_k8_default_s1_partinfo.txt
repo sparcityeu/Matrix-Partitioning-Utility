@@ -1,0 +1,20 @@
+File Name: indianpines_10NN.mtx
+Non-Zero Count: 124656
+Row and Column Count (M x N): 9144 and 9144
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 1693 
+
+ MaxImbals are (as %): 1.050
+             1.0 
+
+ PartWeights are:
+
+   0 :      1131 
+   1 :      1131 
+   2 :      1149 
+   3 :      1139 
+   4 :      1149 
+   5 :      1148 
+   6 :      1155 
+   7 :      1142 

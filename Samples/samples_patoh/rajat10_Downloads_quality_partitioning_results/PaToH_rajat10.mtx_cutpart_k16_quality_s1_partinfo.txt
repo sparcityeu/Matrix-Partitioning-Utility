@@ -1,0 +1,28 @@
+File Name: rajat10.mtx
+Non-Zero Count: 130303
+Row and Column Count (M x N): 30202 and 30202
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 16-way cutsize = 1300 
+
+ MaxImbals are (as %): 0.444
+             0.4 
+
+ PartWeights are:
+
+   0 :      1887 
+   1 :      1889 
+   2 :      1889 
+   3 :      1887 
+   4 :      1896 
+   5 :      1879 
+   6 :      1888 
+   7 :      1887 
+   8 :      1890 
+   9 :      1887 
+  10 :      1887 
+  11 :      1887 
+  12 :      1896 
+  13 :      1879 
+  14 :      1896 
+  15 :      1878 

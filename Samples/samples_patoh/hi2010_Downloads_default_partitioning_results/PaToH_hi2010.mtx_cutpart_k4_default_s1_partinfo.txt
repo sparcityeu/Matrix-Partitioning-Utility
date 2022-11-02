@@ -1,0 +1,16 @@
+File Name: hi2010.mtx
+Non-Zero Count: 124126
+Row and Column Count (M x N): 25016 and 25016
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 4-way cutsize = 159 
+
+ MaxImbals are (as %): 1.903
+             1.9 
+
+ PartWeights are:
+
+   0 :      6158 
+   1 :      6228 
+   2 :      6257 
+   3 :      6373 

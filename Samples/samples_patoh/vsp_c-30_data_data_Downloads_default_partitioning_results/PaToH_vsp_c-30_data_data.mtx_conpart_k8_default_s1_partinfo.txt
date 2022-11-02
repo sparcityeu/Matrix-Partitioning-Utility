@@ -1,0 +1,20 @@
+File Name: vsp_c-30_data_data.mtx
+Non-Zero Count: 124368
+Row and Column Count (M x N): 11023 and 11023
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 8-way cutsize = 4053 
+
+ MaxImbals are (as %): 0.662
+             0.7 
+
+ PartWeights are:
+
+   0 :      1378 
+   1 :      1378 
+   2 :      1379 
+   3 :      1377 
+   4 :      1378 
+   5 :      1378 
+   6 :      1387 
+   7 :      1368 

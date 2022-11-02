@@ -1,0 +1,28 @@
+File Name: aug3dcqp.mtx
+Non-Zero Count: 128115
+Row and Column Count (M x N): 35543 and 35543
+-------------------------------------------------------------------
+ Partitioner: Single-Constraint
+ 16-way cutsize = 3919 
+
+ MaxImbals are (as %): 0.070
+             0.1 
+
+ PartWeights are:
+
+   0 :      2222 
+   1 :      2221 
+   2 :      2223 
+   3 :      2220 
+   4 :      2222 
+   5 :      2221 
+   6 :      2222 
+   7 :      2221 
+   8 :      2222 
+   9 :      2221 
+  10 :      2221 
+  11 :      2221 
+  12 :      2221 
+  13 :      2222 
+  14 :      2222 
+  15 :      2221 

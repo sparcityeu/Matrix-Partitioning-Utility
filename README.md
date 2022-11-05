@@ -8,7 +8,7 @@ Karypis, Vipin Kumar). It first reads a matrix market file in coordinate (COO) f
 
 Metis offers two partitioning objectives, "edge-cut", and "volume", and does not offer a quality option.
 
-PaToH offers two partitioning objectives "conpart" and "cutpart", and three quality objectives "speed", "default", and "quality".
+PaToH offers two partitioning objectives "conpart" and "cutpart", and three quality options "speed", "default", and "quality".
 
 # How to use
 
